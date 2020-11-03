@@ -5,3 +5,7 @@
 # QDUOJ开源地址
 
 [后端](https://github.com/QingdaoU/OnlineJudge) | [前端](https://github.com/QingdaoU/OnlineJudgeFE)
+
+# 我的开源地址
+
+[后端](https://github.com/ZhangAo1999/QDUOJSecondaryDevelopment) | [前端](https://github.com/ZhangAo1999/QDUOJSecondaryDevelopmentFE)
