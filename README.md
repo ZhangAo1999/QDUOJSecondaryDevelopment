@@ -4,6 +4,4 @@
 
 # QDUOJ开源地址
 
-[后端](https://github.com/QingdaoU/OnlineJudge)
-
-[前端](https://github.com/QingdaoU/OnlineJudgeFE)
+[后端](https://github.com/QingdaoU/OnlineJudge) | [前端](https://github.com/QingdaoU/OnlineJudgeFE)
